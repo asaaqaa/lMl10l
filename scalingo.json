@@ -1,9 +1,9 @@
 {
-    "name": "Aljoker - سورس الجوكر",
+    "name": " - سورس سهى",
     "description": "اللهم صلِ على محمد وآل محمد",
     "addons": ["scalingo-postgresql"],
     "keywords": ["Aljoker", "userbot","scalingo"],
-    "repository": "https://github.com/jepthoniq/lMl10l",
+    "repository": "https://github.com/asaaqaa/lMl10l",
   "stack": "container",
     "env": {
         "ALIVE_NAME": {
